@@ -17,7 +17,14 @@ vayera/                     Vayera kit files
   vayera-reading-compact-print.pdf  (7 pages, print version)
   vayera-full-reading.mp3           (17:12, all 147 verses)
   extras/                   Nine one-page PDFs
+chayei-sara.html              Parashat Chayei Sara page (second portion)
+chayei-sara/                  Chayei Sara kit files
+  chayei-sara-reading-large-print.pdf    (12 pages, pointed Hebrew)
+  chayei-sara-reading-compact-print.pdf  (5 pages, print version)
+  chayei-sara-full-reading.mp3           (12:03, all 105 verses)
+  extras/                   Nine one-page PDFs
 images/vayera-illustration.png      Artwork shown on the Vayera page
+images/chayei-sara-illustration.png Artwork shown on the Chayei Sara page
 
 How to publish it free (Cloudflare Pages)
 ------------------------------------------
@@ -40,7 +47,8 @@ Adding a new portion each Friday
 Notes
 -----
 - Vayera carries the October 31 kit: quiz in English, words page with
-  written translations, Chicago candle-lighting. From Chayei Sara
+  written translations. Its candle-lighting times were switched to
+  Jerusalem on November 5, 2026. From Chayei Sara
   onward, kits follow the updated format: quiz in Hebrew, word
   meanings as sketches, Jerusalem candle-lighting times.
 - Total size of this package: about 17 MB. Largest single file is
