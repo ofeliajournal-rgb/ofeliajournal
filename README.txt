@@ -25,6 +25,13 @@ chayei-sara/                  Chayei Sara kit files
   extras/                   Nine one-page PDFs
 images/vayera-illustration.png      Artwork shown on the Vayera page
 images/chayei-sara-illustration.png Artwork shown on the Chayei Sara page
+toldot.html                   Parashat Toldot page (third portion, added November 13, 2026)
+toldot/                       Toldot kit files
+  toldot-reading-large-print.pdf         (12 pages, pointed Hebrew)
+  toldot-reading-compact-print.pdf       (5 pages, print version)
+  toldot-full-reading.mp3                (12:42, all 106 verses)
+  extras/                   Nine one-page PDFs
+images/toldot-illustration.png      Artwork shown on the Toldot page (cropped from the illustration extra: Isaac blesses Jacob, Genesis 27:18-29)
 
 How to publish it free (Cloudflare Pages)
 ------------------------------------------
